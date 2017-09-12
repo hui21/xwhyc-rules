@@ -1,4 +1,4 @@
-!  -----更新时间:  2017-09-11 22:43:56   by:xwhyc-----
+!  -----更新时间:  2017-09-12 23:45:40   by:xwhyc-----
 00kxs.com##.gg
 00sy.com##div.dahengfu,div.header,div.ad360,p[class="tl pd8 pd10"] + ul
 01ny.cn##.cl[style],[style^="width:980px;height:70px;"],#Tab9_1,.topadv,[href^="http://f2.01ny.cn/ad/"]
@@ -3776,7 +3776,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |http://*/min_ad.$document
 |http://*/mlfoot.js|$script
 |http://*/mynicedd/
-|http://*/naimabdd_1010/$script
+|http://*/naimabdd_$script
 |http://*/nc.jpg$image
 |http://*/nettv/adp/
 |http://*/newS_contentad
@@ -8512,6 +8512,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||js.tv.itc.cn/site/play/v1/vip_discount_a0458d.js
 ||js.union-wifi.com/zm.js?cid=*&dmac
 ||js.ykimg.com/youku/dist/js/page/find/play/index_$s@&&p&&@&&@
+||js.ykimg.com/youku/dist/js/page/find/play/index_$s@||p;@;@
 ||js.zhuoyaju.com
 ||js1.bju888.com
 ||js1.bxwns.com
@@ -8758,6 +8759,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||motohelpr.com
 ||moyangao.com
 ||mp4.res.hunantv.com
+||mp4ba.net/static/js/mp4ba.js
 ||mrksys.com^
 ||msltzer.cn
 ||mstzym.com^
@@ -8961,6 +8963,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qdchunyu.com
 ||qdcode.com
 ||qdimg.com/css/baidu.js|
+||qdross.com/vip/$script
 ||qfxs.cc/book_$s@<script src=?http://js2699.yongkang6.com:*></script>@@
 ||qfxs.cc/book_$s@<script type="text/javascript" language="javascript" src="http://s1.sxxjdz.com:8081/js/*"></script>@@
 ||qgss8.com
