@@ -1,4 +1,4 @@
-!  -----更新时间:  2017-09-13 23:00:51   by:xwhyc-----
+!  -----更新时间:  2017-09-14 22:49:52   by:xwhyc-----
 00kxs.com##.gg
 00sy.com##div.dahengfu,div.header,div.ad360,p[class="tl pd8 pd10"] + ul
 01ny.cn##.cl[style],[style^="width:980px;height:70px;"],#Tab9_1,.topadv,[href^="http://f2.01ny.cn/ad/"]
@@ -935,9 +935,8 @@ cn163.net##A[href*=".taobao.com/"]
 cn3x.com.cn##.gg1,[class^="list_gg"]
 cna.com.tw##div[class^="ad_"]
 cnal.com##img[src^="http://dreambox.cnal.com/image"],[id^="indexbd"],.index_top_r
-cnbeta.com##.cbv,.tigerstock,div.time,ins.adsbygoogle,[href="http://www.dangbei.com/?cnbeta"],[class="item cooperation"],.cbhelp,[href^="http://click.aliyun.com/m/"],.commt-r,#fixed_area,#aswift_0_expand,.other_news,a[href^="https://www.tigerbrokers.com/market/"],.article-global
-cnbeta.com##.cnbeta-side-sponsor
-cnblogs.com##div[id^="google_ad_"],[id^="ad_"],#banner_right,[id^="cnblogs_a"],[id^="cnblogs_b"],[id^="cnblogs_c"].c_ad_block,[id^="div-gpt-ad-"],[height="60"]
+cnbeta.com##.cbv,.tigerstock,div.time,ins.adsbygoogle,[href="http://www.dangbei.com/?cnbeta"],[class="item cooperation"],.cbhelp,[href^="http://click.aliyun.com/m/"],.commt-r,#fixed_area,#aswift_0_expand,.other_news,a[href^="https://www.tigerbrokers.com/market/"],.article-global,.cnbeta-side-sponsor
+cnblogs.com##div[id^="google_ad_"],[id^="ad_"],#banner_right,[id^="cnblogs_a"],[id^="cnblogs_b"],[id^="cnblogs_c"].c_ad_block,[id^="div-gpt-ad-"],[height="60"],.adPopup
 cnbzol.com##.ad300x250
 cndesign.com##a[href="https://7344.taobao.com/"],ins.adsbygoogle
 cndzq.com###kk_outer,.drag,#diyleftsidebottom,#topgg
@@ -1747,6 +1746,7 @@ mao-123.com##div.cate.ad
 maodh.com##[width="960"][height="60"]
 maxdos.net,pzz.cn##div.a_mu
 maxskys.com##IMG[width="794"][height="80"],IMG[width="752"][height="80"],IMG[width="794"][height="65"],TABLE#table1,TR.t_infoline
+mcar.cc##.a_mu,[style*="background-color:"]
 mcncc.com##div.a_mu,div.a_cn,div.wp.a_t,div.GzList,div#diynavtop.area
 med66.com##[id^="ad"],[class$="container"],.banner,.gao
 meiguoshenpo.com##DIV[class^="AD_"],[class^="info_"]
@@ -2207,6 +2207,7 @@ t66y.cc,t66y.com##DIV > A > IMG[src^="http://www.t66y.cc/img/"]:first-child,DIV.
 tadu.com##[href^="http://www.tadu.com/ad?"],.friend-close,div[id^="_"]
 tahua.net###portal_block_91
 taian.com##.ggtp
+taihainet.com##.top-info
 taihainet.com##DIV.box10 + DIV.wrapper,div.lzhb,[width="750"][height="80"],DIV[id^="BannerADZone_"],SCRIPT[src="/Skin/v2013/top2013.js"] + DIV.wrapper,.rightad,div.head2013_top + * + div.wrapper
 taiwan123.cn##[height="90px"]
 tanwanmao.cc##.mbm.a_c,#drk_ledtd,.mm,.portal_block_summary
@@ -4703,6 +4704,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |http://iface.iqiyi.com/api/getNewAdInfo?key=
 |http://iface2.iqiyi.com/php/xyz/entry/$s@"ad_str":@"":@
 |http://ifkjx.com/$s@<div id="91banner"*>@<div style="display:none!important;">@
+|http://ifkjx.com/img/buxin.jpg
 |http://iis1.deliver.ifeng.com/getcode?ap=
 |http://image.awaker.cn/Uploads/Bew/c.js
 |http://image.bitautoimg.com/dealer/union/script/ads4ycindex.js
@@ -6443,6 +6445,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |http://www.holdata.cn/jzmt?id=
 |http://www.how361.com/data/js.php?id=
 |http://www.huabian.com/conn/$script
+|http://www.huacolor.com/d/js/v/$script
 |http://www.huhumh.com/hh/h$script
 |http://www.huhumh.com/js/$script
 |http://www.huhumh.com/jsc/book_$script
@@ -7407,6 +7410,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||88818122.cn
 ||88cncc.com
 ||88cpc.com
+||88dushu.com/mobile/css/wap.js
 ||88ng.com
 ||88rpg.net
 ||892155.com
@@ -7735,6 +7739,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||biz5.sandai.net
 ||bizcn008.com
 ||bizhiku.net
+||bjedpt.com
 ||bjgztt.com
 ||bjtrld.com
 ||blogad.com.tw$third-party
@@ -8009,6 +8014,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dlads.cn
 ||dlamlab.com$third-party
 ||dleke.com
+||dlkoo.com/down/copy4.js?v=
 ||dlrijiaele.com
 ||dm.zhiyuanteam.com
 ||dm1080p.com/tb/$script
@@ -8984,6 +8990,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qidian.com/ejs/qd/js/read.qidian.com/bgOps
 ||qidian.com/javascript/SNDAADAltern.js$script
 ||qidian.com/javascript/_QIDIAN_.js$script
+||qigemm.com
 ||qihaoqu.com
 ||qingkan520.com/201*.js|
 ||qingsj.cn
