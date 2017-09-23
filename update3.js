@@ -1,6 +1,6 @@
-;更新规则url,dir,size,reverse,reverse
-!更新规则url,dir,size,reverse,reverse
-https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/lazy.txt	\data\lazy.txt	478863	4	0	
+;赂眉脨脗鹿忙脭貌url,dir,size,reverse,reverse
+!赂眉脨脗鹿忙脭貌url,dir,size,reverse,reverse
+https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/lazy.txt	\data\lazy.txt	478754	4	0	
 http://update.adbyby.com/rule3/video.jpg	\data\video.txt	779	4	0	
 http://update.adbyby.com/rule3/user.action	\user.action	459	5	0	
 !https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/clean.ini	\data\clean.ini	2167	0	0	
