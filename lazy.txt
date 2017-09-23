@@ -1,4 +1,4 @@
-!  -----更新时间:  2017-09-23 12:04:56   by:xwhyc-----
+!  -----更新时间:  2017-09-23 14:00:27   by:xwhyc-----
 00kxs.com##.gg
 00sy.com##div.dahengfu,div.header,div.ad360,p[class="tl pd8 pd10"] + ul
 01ny.cn##.cl[style],[style^="width:980px;height:70px;"],#Tab9_1,.topadv,[href^="http://f2.01ny.cn/ad/"]
@@ -5797,7 +5797,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 |http://up.h5gal.cc/data/attachment/portal/201304/12/151000plnhjqtqa4tszqzl.jpg$image
 |http://upan.so$s@<script src="http://360.safe.go.366safego.com:88/code/400.do" charset="gb2312"></script>@@
 |http://upan.so/images/bcbjAD.jpg$image
-|http://update.adbyby.com/update3.js$f@https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/update3.js
+
 |http://uploads.dahe.cn/indiboy/ads/news/$script
 |http://us-ads.openx.net
 |http://user.hongdou.gxnews.com.cn/upload/index/201$image,object
