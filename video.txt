@@ -3,8 +3,8 @@
 
 
 !-------------------------------------------
-||js.ykimg.com/youku/dist/js/page/find/play/index*.js$s@m||!v||h*@m||!v||h@
 ||js.ykimg.com/youku/dist/js/page/find/play/index*.js$s@&&v&&m&&h*||!i@&&v&&m&&h||!i@
+||js.ykimg.com/youku/dist/js/page/find/play/index*.js$s@m||!v||h*@m||!v||h@
 
 
 
