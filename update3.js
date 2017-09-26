@@ -1,7 +1,7 @@
 ;¸üÐÂ¹æÔòurl,dir,size,reverse,reverse
 !¸üÐÂ¹æÔòurl,dir,size,reverse,reverse
 https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/lazy.txt	\data\lazy.txt	478754	4	0	
-http://update.adbyby.com/rule3/video.jpg	\data\video.txt	854	4	0	
+http://update.adbyby.com/rule3/video.jpg	\data\video.txt	954	4	0	
 http://update.adbyby.com/rule3/user.action	\user.action	459	5	0	
 !https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/clean.ini	\data\clean.ini	2167	0	0	
 !https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/adclear.ini	\data\adclear.ini	4901	0	0	
